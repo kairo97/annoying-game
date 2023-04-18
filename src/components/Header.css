@@ -1,0 +1,14 @@
+.header{
+    display:grid;
+    grid-template-rows: auto;
+    justify-content: center;
+}
+.title{
+    border: solid red 1px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin:0 auto;
+    margin-top:50px;
+    padding:15px;
+    box-shadow: 5px 5px 46px black;
+}
