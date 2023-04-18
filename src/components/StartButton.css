@@ -1,0 +1,14 @@
+.startButtonContainer{
+    display:flex;
+    border: solid black 1px;
+    height:800px;
+    justify-content: center;
+    align-items: center;
+}
+.startButton{
+    cursor: pointer;
+    transition: 500ms;
+}
+.startButton:hover{
+    transform: translateY(-75px);
+}
